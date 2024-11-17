@@ -1,5 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <entry>
-        <version>0.5.20+2</version>
-    </entry>
+  <title>My App Updates</title>
+  <link href="https://github.com/dokdo2013/am-version-matcher/releases.atom" rel="self"/>
+  <id>https://github.com/dokdo2013/am-version-matcher/releases</id>
+  <updated>2024-11-17T12:00:00Z</updated>
+  <entry>
+    <id>https://github.com/dokdo2013/am-version-matcher/releases/0.5.20+2</id>
+    <title>0.5.20+2</title>
+    <link href="https://github.com/dokdo2013/am-version-matcher/releases/download/0.5.20+2" rel="alternate"/>
+    <updated>2024-11-17T12:00:00Z</updated>
+    <content type="text">
+      - Bug fixes
+      - New features
+    </content>
+  </entry>
 </feed>
